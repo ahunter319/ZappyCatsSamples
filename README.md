@@ -1,11 +1,11 @@
 # Zappy Cats - Code Sampler
-<small>*"Zappy Cats" is a 3D puzzle platformer where you play as a cat that shoots lasers. It's built with Unreal Engine 5 and C++, and currently available for download on [Steam](#https://store.steampowered.com/app/4291920/Zappy_Cats/).*</small>
+<small>*"Zappy Cats" is a 3D puzzle platformer where you play as a cat that shoots lasers. It's built with Unreal Engine 5 and C++, and currently available for download on [Steam](https://store.steampowered.com/app/4291920/Zappy_Cats/).*</small>
 
 This repo serves as a sampling of the code from my game "Zappy Cats". I designed and coded it myself without any AI, and any snippets borrowed/modified from the web have been marked and credited to the best of my knowledge. 
 
 It took around 14 months of full-time work to build the entire game, which included all of the code, scripting, level design, sound design, and most of the 3D assets.
 
-Rather than upload the entire codebase, I've opted to write a few feature-highlights. You can read about them below or check out the code by browsing the files in this repo. If you'd like a more design-focussed perspective, check out my [portfolio site](#https://ahunter319.github.io/).
+Rather than upload the entire codebase, I've opted to write a few feature-highlights. You can read about them below or check out the code by browsing the files in this repo. If you'd like a more design-focussed perspective, check out my [portfolio site](https://ahunter319.github.io/).
 ___
 ### Jump to...
 #### [Photographer Mode](#photographer-mode)
