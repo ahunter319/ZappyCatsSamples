@@ -8,10 +8,10 @@ It took around 14 months of full-time work to build the entire game, which inclu
 Rather than upload the entire codebase, I've opted to write a few feature-highlights. You can read about them below or check out the code by browsing the files in this repo. If you'd like a more design-focussed perspective, check out my [portfolio site](https://ahunter319.github.io/).
 ___
 ### Jump to...
-#### [Photographer Mode](#photographer-mode)
-#### [Photo Gallery](#photo-gallery)
-#### [Auto-Shooter Class](#auto-shooter-class)
-#### [Enemy Rats](#enemy-rats)
+* [Photographer Mode](#photographer-mode)
+* [Photo Gallery](#photo-gallery)
+* [Auto-Shooter Class](#auto-shooter-class)
+* [Enemy Rats](#enemy-rats)
 
 ___
 ___
